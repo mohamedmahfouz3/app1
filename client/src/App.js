@@ -9,7 +9,7 @@ const App = () => {
       <PostCreate />
       <hr />
       <h1>Posts</h1>
-      <PostList />
+      <Postlist />
     </div>
   );
 };
